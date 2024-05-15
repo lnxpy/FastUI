@@ -1,5 +1,5 @@
 # this is not the used for the python package "fastui",
-# for that see packages/python-fastui/pyproject.toml
+# for that see src/python-fastui/pyproject.toml
 
 [tool.ruff]
 line-length = 120
